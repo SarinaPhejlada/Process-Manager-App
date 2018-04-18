@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d97494fa1fadc82f0e4449f2c9ce719d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ae942fa4e3a514d5fee8dad0de0bda4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\628cc5e2971ecc2f84d05fdf2c5bc857\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\7586643b2ac9c44b3ef14e3ac36a2f25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a2636516057d39a0467393ea6d28c60e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\d35198916bbce04ce6beec63d5637bc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b7fc81866e077ee6565cdb38aae4bc0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\265f167cce2f8bada1520487bba18dfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\34a4cae88fdce23e7e2d6dccba5146ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\22a51e8050889bd76966fcf14a9b1162\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\99d3f7d2b40d729c3e238bf851450a29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\289da3d7cf0280ff1153b9d9e1108c4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e5ec736d42cf63fbc28aad2d203acfb1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a5ad68e8600ca1442100e52cf46213d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\92a73e3bad20eff38b492e3ac2bdc2d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\579370a163510509ea361dc05d30f98d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3997d6c9afc0a159bd07655ec6481d0d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:5:22-81
+application
+ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\628cc5e2971ecc2f84d05fdf2c5bc857\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\628cc5e2971ecc2f84d05fdf2c5bc857\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.android.sarina.prokiller.MainActivity
+ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d97494fa1fadc82f0e4449f2c9ce719d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d97494fa1fadc82f0e4449f2c9ce719d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ae942fa4e3a514d5fee8dad0de0bda4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ae942fa4e3a514d5fee8dad0de0bda4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\628cc5e2971ecc2f84d05fdf2c5bc857\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\628cc5e2971ecc2f84d05fdf2c5bc857\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\7586643b2ac9c44b3ef14e3ac36a2f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\7586643b2ac9c44b3ef14e3ac36a2f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a2636516057d39a0467393ea6d28c60e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a2636516057d39a0467393ea6d28c60e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\d35198916bbce04ce6beec63d5637bc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\d35198916bbce04ce6beec63d5637bc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b7fc81866e077ee6565cdb38aae4bc0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b7fc81866e077ee6565cdb38aae4bc0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\265f167cce2f8bada1520487bba18dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\265f167cce2f8bada1520487bba18dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\34a4cae88fdce23e7e2d6dccba5146ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\34a4cae88fdce23e7e2d6dccba5146ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\22a51e8050889bd76966fcf14a9b1162\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\22a51e8050889bd76966fcf14a9b1162\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\99d3f7d2b40d729c3e238bf851450a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\99d3f7d2b40d729c3e238bf851450a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\289da3d7cf0280ff1153b9d9e1108c4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\289da3d7cf0280ff1153b9d9e1108c4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e5ec736d42cf63fbc28aad2d203acfb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e5ec736d42cf63fbc28aad2d203acfb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a5ad68e8600ca1442100e52cf46213d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a5ad68e8600ca1442100e52cf46213d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\92a73e3bad20eff38b492e3ac2bdc2d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\92a73e3bad20eff38b492e3ac2bdc2d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\579370a163510509ea361dc05d30f98d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\579370a163510509ea361dc05d30f98d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3997d6c9afc0a159bd07655ec6481d0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sarina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3997d6c9afc0a159bd07655ec6481d0d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sarina\AndroidStudioProjects\ProKiller\app\src\main\AndroidManifest.xml
